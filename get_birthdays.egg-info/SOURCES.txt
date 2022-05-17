@@ -1,0 +1,11 @@
+LICENSE
+pyproject.toml
+setup.cfg
+get_birthdays/__init__.py
+get_birthdays/get_birthdays.py
+get_birthdays/main.py
+get_birthdays.egg-info/PKG-INFO
+get_birthdays.egg-info/SOURCES.txt
+get_birthdays.egg-info/dependency_links.txt
+get_birthdays.egg-info/entry_points.txt
+get_birthdays.egg-info/top_level.txt
