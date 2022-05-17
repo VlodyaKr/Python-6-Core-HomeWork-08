@@ -2,13 +2,13 @@
 
 ### *Python 6 Core HomeWork 08*
 [![Language](https://img.shields.io/badge/language-python-blue)](https://www.python.org)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/VlodyaKr/Python-6-Core-HomeWork-07)
-![GitHub Release Date](https://img.shields.io/github/release-date/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)
-![GitHub all releases](https://img.shields.io/github/downloads/VlodyaKr/Python-6-Core-HomeWork-07/total)
-[![GitHub issues](https://img.shields.io/github/issues/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/issues)
-[![GitHub forks](https://img.shields.io/github/forks/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/network)
-[![GitHub stars](https://img.shields.io/github/stars/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/stargazers)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/VlodyaKr/Python-6-Core-HomeWork-08)
+![GitHub Release Date](https://img.shields.io/github/release-date/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/VlodyaKr/Python-6-Core-HomeWork-08/total)
+[![GitHub issues](https://img.shields.io/github/issues/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/issues)
+[![GitHub forks](https://img.shields.io/github/forks/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/network)
+[![GitHub stars](https://img.shields.io/github/stars/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/stargazers)
 ---
 #### Формат запуску з консолі:
 #### ***`reminder Source.csv`***
@@ -32,15 +32,18 @@ ___
 - Розархівуйте завантажений архів 
 - Встановіть пакет:
 `pip install -e .`
-
+---
+#### Розгортання (варіант 2)
+- Встановіть пакет:
+`pip install -i https://test.pypi.org/simple/ get-birthdays==0.1.0`
 ---
 #### Автор
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-07)](https://github.com/VlodyaKr)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-08)](https://github.com/VlodyaKr)
 
 #### Володимир Кравченко
-[Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Core-HomeWork-07)
+[Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Core-HomeWork-08)
 ___
 #### Ліцензія
-[![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/blob/main/LICENSE)
 
-Цей проєкт ліцензується відповідно до ліцензії MIT — подробиці див. у файлі [LICENSE](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/blob/main/LICENSE)
+Цей проєкт ліцензується відповідно до ліцензії MIT — подробиці див. у файлі [LICENSE](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/blob/main/LICENSE)
