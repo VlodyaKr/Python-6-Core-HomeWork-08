@@ -9,7 +9,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/issues)
 [![GitHub forks](https://img.shields.io/github/forks/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/network)
 [![GitHub stars](https://img.shields.io/github/stars/VlodyaKr/Python-6-Core-HomeWork-08?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-08/stargazers)
----
+___
 #### Формат запуску з консолі:
 #### ***`reminder Source.csv`***
 де
@@ -18,7 +18,7 @@
 `name` - ім'я колеги,
 `birthday` - дата у форматі `DD.MM.YYYY`
 
----
+___
 #### Завдання:
 Потрібно реалізувати корисну функцію для виведення списку колег, яких треба привітати з днем народження протягом тижня. 
 У нас є список словників, кожен словник в ньому обов'язково має ключі `name` і `birthday`. Така структура представляє 
@@ -32,11 +32,11 @@ ___
 - Розархівуйте завантажений архів 
 - Встановіть пакет:
 `pip install -e .`
----
+___
 #### Розгортання (варіант 2)
 - Встановіть пакет:
 `pip install -i https://test.pypi.org/simple/ get-birthdays==0.1.0`
----
+___
 #### Автор
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-08)](https://github.com/VlodyaKr)
 
