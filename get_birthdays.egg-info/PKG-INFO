@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: get-birthdays
-Version: 0.1.1
+Version: 0.1.2
 Summary: HW 08. Reminder Birthdays
 Home-page: https://github.com/VlodyaKr/Python-6-Core-HomeWork-08
 Author: Volodymyr Kravchenko
@@ -28,11 +28,15 @@ License-File: LICENSE
 ___
 #### Формат запуску з консолі:
 #### ***`reminder Source.csv`***
-де
+де ***`Source.csv`*** - файл з даними колег,
 
-***`Source.csv`*** - файл з даними колег, роздільник - `;`, обов'язкові поля:
+в яком роздільник полів - `;` та обов'язкові поля: 
+
 `name` - ім'я колеги,
-`birthday` - дата у форматі `DD.MM.YYYY`
+
+`birthday` - дата у форматі `DD.MM.YYYY`.
+
+Для прикладу можна взяти файл `test/test.csv`
 
 ___
 #### Завдання:
