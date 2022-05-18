@@ -39,7 +39,7 @@ ___
 ___
 #### Розгортання (варіант 2)
 - Встановіть пакет:
-`pip install -i https://test.pypi.org/simple/ get-birthdays==0.1.0`
+`pip install -i https://test.pypi.org/simple/ get-birthdays`
 ___
 #### Автор
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-08)](https://github.com/VlodyaKr)
